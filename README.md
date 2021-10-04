@@ -1,2 +1,2 @@
-# Btech_CVD
-Bachelors Thesis
+# Early Screening for Cardiovascular Disorders
+## Bachelors Thesis
